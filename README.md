@@ -3,7 +3,7 @@
 
 ## Features
 
-- Make your House Automatic
+- Make your House Smart and Automatic
 - Talk to your Home with Voice Assistant Alexa and Google
 - Home control on your fingertips with Mobile App
 - Provides Automations and Saves Energy
